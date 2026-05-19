@@ -227,9 +227,7 @@ Lava.top API использует фиксированные цены по `offe
 ---
 
 - [Регистрация на Lava.top](https://lava.top/?ref=282365)
-- [Документация Lava.top API](https://lava.top/api)
-- [Купить Pro-лицензию](https://payhubx.store)
-- [Руководство по настройке](SETUP.md)
+
 
 ---
 
